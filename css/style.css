@@ -1,0 +1,20 @@
+.btn {
+    padding: 0 5px;
+    border-radius:0;
+    margin: -5px 0 0 15px;
+}
+.btn_input {
+    width:100%;
+}
+label{
+    width:100%;
+}
+input{
+    width:100%;
+}
+.btn_input1{
+    width: 25%;
+}
+.form-item1{
+    width: 25%;
+}
